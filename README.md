@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tamal+Paul;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Parking Management](https://github.com/paultomal/PaulParkingManagement)
 
