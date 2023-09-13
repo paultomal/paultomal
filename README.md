@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on My Life
 
-- 🌱 I’m currently learning **Asp.Net, Network Security, Operating System**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **tamal.paul.42123@gmail.com**
 
